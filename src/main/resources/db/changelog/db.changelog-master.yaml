@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - changeSet:
+      id: 0
+      author: me
+      changes:
+        - sql:
+            sql: CREATE TABLE `some_table` (`id` BIGINT)
