@@ -1,6 +1,7 @@
 # A liquibase bug reproducer
 
-This project is a reproducer for the liquibase bug TBA.
+This project is a reproducer for the Liquibase bug 
+[liquibase/liquibase#4460](https://github.com/liquibase/liquibase/issues/4460).
 
 ## Steps to reproduce
 
